@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brittany Baur on Da-Inn Erika Lee</title>
+    <link>/authors/brittany-baur/</link>
+    <description>Recent content in Brittany Baur on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Mon, 20 May 2019 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/brittany-baur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Higher Understanding with Lower Dimensions</title>
+      <link>/outreach/2019glbio-dimred/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/outreach/2019glbio-dimred/</guid>
+      <description>Tutorial on dimension reduction methods at the Great Lakes Bioinformatics (GLBIO) conference</description>
+    </item>
+    
+  </channel>
+</rss>

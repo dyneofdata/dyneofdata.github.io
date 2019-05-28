@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sushmita Roy on Da-Inn Erika Lee</title>
+    <link>/authors/sushmita-roy/</link>
+    <description>Recent content in Sushmita Roy on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Sun, 21 Jul 2019 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/sushmita-roy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discovering structural units of chromosomal organization with matrix factorization and graph regularization</title>
+      <link>/talk/2019ismb/</link>
+      <pubDate>Sun, 21 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019ismb/</guid>
+      <description>Upcoming talk - see you in Basel!</description>
+    </item>
+    
+    <item>
+      <title>Discovering structural units of chromosomal organization with matrix factorization and graph regularization</title>
+      <link>/talk/2019glbio/</link>
+      <pubDate>Tue, 21 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019glbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRINCH: Discovering structural units of chromosomes with graph-regularized matrix factorization</title>
+      <link>/talk/2018recomb/</link>
+      <pubDate>Mon, 10 Dec 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018recomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph-regularized non-negative matrix factorization method to discover organizational units of chromosomes</title>
+      <link>/talk/2018ismb/</link>
+      <pubDate>Sat, 07 Jul 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018ismb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

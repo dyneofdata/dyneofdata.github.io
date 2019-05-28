@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Da-Inn Erika Lee</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am a PhD student in Biomedical Data Science at the University of Wisconsin - Madison, working in Sushmita Roy&amp;rsquo;s lab. Our lab specializes in developing computational tools to gain insight from large biological networks. My current project involves learning the organizational principles of how the DNA folds itself inside the cell, and how this in turn builds a scaffolding for gene regulatory networks.</description>
+    </item>
+    
+  </channel>
+</rss>

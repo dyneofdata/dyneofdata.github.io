@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manifold Learning on Da-Inn Erika Lee</title>
+    <link>/tags/manifold-learning/</link>
+    <description>Recent content in Manifold Learning on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Mon, 20 May 2019 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/manifold-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Higher Understanding with Lower Dimensions</title>
+      <link>/outreach/2019glbio-dimred/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/outreach/2019glbio-dimred/</guid>
+      <description>Tutorial on dimension reduction methods at the Great Lakes Bioinformatics (GLBIO) conference</description>
+    </item>
+    
+    <item>
+      <title>Higher Understanding with Lower Dimensions</title>
+      <link>/project/dimred-glbio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dimred-glbio/</guid>
+      <description>Dimension Reduction Tutorial at GLBIO 2019</description>
+    </item>
+    
+  </channel>
+</rss>

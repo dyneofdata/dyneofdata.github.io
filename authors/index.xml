@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Da-Inn Erika Lee</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Sun, 21 Jul 2019 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Da-Inn Lee</title>
+      <link>/authors/da-inn-lee/</link>
+      <pubDate>Sun, 21 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/da-inn-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sushmita Roy</title>
+      <link>/authors/sushmita-roy/</link>
+      <pubDate>Sun, 21 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/sushmita-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brittany Baur</title>
+      <link>/authors/brittany-baur/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/brittany-baur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Da-Inn Erika Lee</title>
+      <link>/authors/da-inn-erika-lee/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/da-inn-erika-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry Ward</title>
+      <link>/authors/henry-ward/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/henry-ward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaotong Liu</title>
+      <link>/authors/xiaotong-liu/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaotong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lynn Liu</title>
+      <link>/authors/lynn-liu/</link>
+      <pubDate>Sat, 27 Apr 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/lynn-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremy Kofoot</title>
+      <link>/authors/jeremy-kofoot/</link>
+      <pubDate>Thu, 26 Apr 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/jeremy-kofoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Harrington</title>
+      <link>/authors/alex-harrington/</link>
+      <pubDate>Tue, 27 Feb 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/alex-harrington/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suzy Greblo</title>
+      <link>/authors/suzy-greblo/</link>
+      <pubDate>Tue, 27 Feb 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/suzy-greblo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aimee M Becker</title>
+      <link>/authors/aimee-m-becker/</link>
+      <pubDate>Fri, 26 Jan 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/aimee-m-becker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher R Turner</title>
+      <link>/authors/christopher-r-turner/</link>
+      <pubDate>Fri, 26 Jan 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/christopher-r-turner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erika Da-Inn Lee</title>
+      <link>/authors/erika-da-inn-lee/</link>
+      <pubDate>Fri, 26 Jan 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/erika-da-inn-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lianne L Stephenson</title>
+      <link>/authors/lianne-l-stephenson/</link>
+      <pubDate>Fri, 26 Jan 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/lianne-l-stephenson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am a PhD student in Biomedical Data Science at the University of Wisconsin - Madison, working in Sushmita Roy&amp;rsquo;s lab. Our lab specializes in developing computational tools to gain insight from large biological networks. My current project involves learning the organizational principles of how the DNA folds itself inside the cell, and how this in turn builds a scaffolding for gene regulatory networks.</description>
+    </item>
+    
+  </channel>
+</rss>

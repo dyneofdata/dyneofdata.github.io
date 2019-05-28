@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Da-Inn Erika Lee</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Sun, 21 Jul 2019 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Genome</title>
+      <link>/tags/3d-genome/</link>
+      <pubDate>Sun, 21 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/3d-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension Reduction</title>
+      <link>/tags/dimension-reduction/</link>
+      <pubDate>Sun, 21 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/dimension-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>/tags/data-visualization/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Learning</title>
+      <link>/tags/manifold-learning/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/manifold-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 27 Apr 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Health Records</title>
+      <link>/tags/electronic-health-records/</link>
+      <pubDate>Thu, 26 Apr 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/electronic-health-records/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>/tags/big-data/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Biology</title>
+      <link>/tags/network-biology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/network-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

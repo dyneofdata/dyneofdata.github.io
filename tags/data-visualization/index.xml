@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Da-Inn Erika Lee</title>
+    <link>/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Mon, 20 May 2019 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Higher Understanding with Lower Dimensions</title>
+      <link>/outreach/2019glbio-dimred/</link>
+      <pubDate>Mon, 20 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/outreach/2019glbio-dimred/</guid>
+      <description>Tutorial on dimension reduction methods at the Great Lakes Bioinformatics (GLBIO) conference</description>
+    </item>
+    
+    <item>
+      <title>It takes a village to raise a dashboard</title>
+      <link>/talk/2018qonnections/</link>
+      <pubDate>Thu, 26 Apr 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018qonnections/</guid>
+      <description>&lt;em&gt;How a distributed stakeholder model empowers self-service analytics&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>OR KPI self-service reporting</title>
+      <link>/talk/2018asa/</link>
+      <pubDate>Fri, 26 Jan 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018asa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-service reporting for quantitative provider practice evaluation</title>
+      <link>/talk/2018asa2/</link>
+      <pubDate>Fri, 26 Jan 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018asa2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicago L Train Ridership Pattern</title>
+      <link>/project/chicago-l/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/chicago-l/</guid>
+      <description>Where are the high-growth, demographically suitable areas for a new spinning club franchise?</description>
+    </item>
+    
+    <item>
+      <title>Higher Understanding with Lower Dimensions</title>
+      <link>/project/dimred-glbio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dimred-glbio/</guid>
+      <description>Dimension Reduction Tutorial at GLBIO 2019</description>
+    </item>
+    
+  </channel>
+</rss>
